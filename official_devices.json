@@ -1,0 +1,58 @@
+[
+    {
+        "name": "X2",
+        "brand": "Realme",
+        "codename": "X2",
+        "supported_versions": [
+          {
+            "version_code": "raft",
+            "version_name": "R",
+            "maintainer_name": "Vyom Desai",
+            "maintainer_git_url": "https://github.com/cannedshroud",
+            "telegram_id": "cannedshroud"
+          }
+        ]
+    },
+    {
+        "name": "Redmi Note 7 Pro",
+        "brand": "Xiaomi",
+        "codename": "violet",
+        "supported_versions": [
+          {
+            "version_code": "raft",
+            "version_name": "R",
+            "maintainer_name": "Shoury Sharma",
+            "maintainer_git_url": "https://github.com/galanteria01",
+            "telegram_id": "galanteria01"
+          }
+        ]
+    },
+    {
+      "name": "Redmi K20 Pro",
+      "brand": "Xiaomi",
+      "codename": "raphael",
+      "supported_versions": [
+        {
+          "version_code": "raft",
+          "version_name": "R",
+          "maintainer_name": "Vyom Desai",
+          "maintainer_git_url": "https://github.com/cannedshroud",
+          "telegram_id": "cannedshroud"
+        }
+      ]
+  },
+  {
+      "name": "LG G5",
+      "brand": "Lge",
+      "codename": "rs988, h830, h850",
+      "supported_versions": [
+        {
+          "version_code": "raft",
+          "version_name": "R",
+          "maintainer_name": "Rishawn Iyer",
+          "maintainer_git_url": "https://github.com/stealth1226",
+          "telegram_id": "stealth1226"
+        }
+      ]
+  }
+]
