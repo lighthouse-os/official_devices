@@ -11,9 +11,6 @@ The device MUST NOT include any unused overlays and packages. This includes, but
 
 The device sources MUST be in accordance with, if applicable, all the items stated at our Maintainers Code of Conduct related to the device source code.
 
-If the device has Full Disk Encryption (a.k.a FDE), it MUST NOT ship/build the Google Play System Updates/Updatable APEX, as the same only works on devices that have File-Base Encryption (FBE) with the device encrypted. The same is applicable for kernel 3.18 or devices with older kernel versions.
-
-Yet on the encryption, the device MUST always have the encryption enabled and enforced as per stock, not mattering if it's a FDE or FBE device. Converting the device from FDE to FBE is fine, however converting a device from FBE to FDE is strictly prohibited.
 
 The device MUST NOT have the need for a lot of patches, and if so, it must be in accordance with the following listing below.
 
