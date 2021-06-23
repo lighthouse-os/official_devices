@@ -54,5 +54,19 @@
           "telegram_id": "stealth1226"
         }
       ]
+  },
+  {
+      "name": "Realme XT",
+      "brand": "Realme",
+      "codename": "RMX1921",
+      "supported_versions": [
+        {
+          "version_code": "raft",
+          "version_name": "R",
+          "maintainer_name": "Deepak Jangir",
+          "maintainer_git_url": "https://github.com/deepak5310",
+          "telegram_id": "hacked001"
+        }
+      ]
   }
 ]
