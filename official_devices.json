@@ -44,7 +44,10 @@
   {
       "name": "LG G5",
       "brand": "Lge",
-      "codename": "rs988, h830, h850",
+      "codename": "rs988",
+      "other_codenames": [
+        "h830", "h850"
+      ],
       "supported_versions": [
         {
           "version_code": "raft",
