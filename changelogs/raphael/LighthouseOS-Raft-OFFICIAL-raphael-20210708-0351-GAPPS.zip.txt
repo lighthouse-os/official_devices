@@ -1,0 +1,44 @@
+Add multiple accent colors
+FP vibration disable option
+Pocket Judge
+Smart Pixels
+Live Display 1.0
+Brightness toggle in QS
+One Shot Brightness
+Heads Up tile
+P style networks drawables
+4G instead of LTE indicator
++
+Android QS 12 
+Battery percentage now in QS header 
+Nuke Smart Charge 
+Nuke old Doze 
+Introduce Custom Doze with:
+  AOD
+  Ambient charge 
+  Ambient notifications
+  Ambient music ticker 
+  Ambient pickup and raise gesture 
+  Ambient HandWave gesture 
+  Ambient Pocket gesture 
+  Ambient Brightness forcing 
+Resize Supplies icon 
+Keeper and Service info in About Phone
+Animated FOD Icons 
+Android 12 Clocks 
+Less boring heads up 
+Font improvements
+Add asus stitchimage
+Attempt to optimise FOD even more 
+Signature Spoofing 
+Fix Screen Recorder bugs
+Signature Spoofing Support
+Data Switch Style
+Make Panel BG darkekr
+Fix Pocket Judge 
+Improve PIP
+FOD improvements
+Many more under the hood improvements
+
+Also fonts and stuff.. emphasis on ~ and stuff ~
+Soo flashing wen?
