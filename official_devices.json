@@ -1,6 +1,7 @@
 [
     {
         "name": "X2",
+        "oem": "Realme",
         "brand": "Realme",
         "codename": "X2",
         "supported_versions": [
@@ -14,8 +15,9 @@
         ]
     },
     {
-        "name": "Redmi Note 7 Pro",
-        "brand": "Xiaomi",
+        "name": "Note 7 Pro",
+        "oem": "Xiaomi",
+        "brand": "Redmi",        
         "codename": "violet",
         "supported_versions": [
           {
@@ -28,8 +30,9 @@
         ]
     },
     {
-      "name": "Redmi K20 Pro",
-      "brand": "Xiaomi",
+      "name": "K20 Pro",
+      "oem": "Xiaomi",
+      "brand": "Redmi",  
       "codename": "raphael",
       "supported_versions": [
         {
@@ -42,8 +45,9 @@
       ]
   },
   {
-      "name": "LG G5",
-      "brand": "Lge",
+      "name": "G5",
+      "brand": "LG",
+      "oem": "LG",
       "codename": "rs988",
       "other_codenames": [
         "h830", "h850"
@@ -59,7 +63,8 @@
       ]
   },
   {
-      "name": "Realme XT",
+      "name": "XT",
+      "oem": "Realme",
       "brand": "Realme",
       "codename": "RMX1921",
       "supported_versions": [
