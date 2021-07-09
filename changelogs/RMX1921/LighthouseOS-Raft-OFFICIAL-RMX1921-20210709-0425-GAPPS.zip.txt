@@ -1,0 +1,49 @@
+Device Changelog
+
+• July security patch
+• Kernel Upstream to 4.9.274
+• Updated Redfin's july fp 
+• Fixed DT2W
+• FOD improved
+• Fixed Screen Recording
+• SafteyNet Pass without root as usual
+• More improvements & bug fixes
+
+Project Lighthouse Changelog | July Update | Raft
+
+• Add multiple accent colors
+• Added option for FP vibration disable
+• Added Pocket Judge
+• Added Smart Pixels
+• Added Live Display 1.0
+• Auto Brightness toggle in QS
+• One Shot Brightness
+• Added Heads Up tile
+• Added P style networks drawables and 4G/LTE icon
+• Added Android QS 12  tint
+• Moved Battery percentage in QS header 
+• Nuked Smart Charge 
+• Nuked old Doze 
+• Introduce New Custom Doze with:
+-> AOD
+-> Ambient charge 
+-> Ambient notifications
+-> Ambient music ticker                                                                                                                                                                            -> Ambient pickup and raise gesture 
+-> Ambient HandWave gesture                                                                                                                                                                               -> Ambient Pocket gesture 
+-> Ambient Brightness forcing 
+• Resize Supplies icon 
+• Keeper and Service info in About Phone
+• Added Animated FOD Icons 
+• Added Android 12 Clocks 
+• Added Less boring heads up 
+• Font improvements
+• Added asus stitchimage
+• Attempt to optimise FOD even more 
+• Added Signature Spoofing 
+• Added Fix Screen Recorder bugs
+• Added Signature Spoofing    Support
+• Added Data Switch Style
+• Make Panel BG darker
+• Fix Pocket Judge 
+• Improve PIP
+• Many more under the hood improvements
