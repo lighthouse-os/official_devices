@@ -2,13 +2,12 @@
 
         "error": false,
         "device": "rs988",
-        "id": "0c2ba162b0fc4ffda2c55063d8304d79d99d205186815ebecc2d163d419db826",
-        "filename": "LighthouseOS-Raft-OFFICIAL-rs988-20210613-0432-GAPPS.zip",
-        "url": "https://sourceforge.net/projects/project-lighthouse/files/rs988/LighthouseOS-Raft-OFFICIAL-rs988-20210613-0432-GAPPS.zip/download",
-        "datetime": "1623558735",
-        "filehash": "f76acf16b9fc0a9de3c0e51ebffac811",
-        "size": 1211791258,
+        "id": "663e3c23a76ddd092e1251f6df56955a95bc2bb88d29896050e31693a54824d3",
+        "filename": "LighthouseOS-Raft-OFFICIAL-rs988-20210709-0433-GAPPS.zip",
+        "url": "https://downloads.projectlighthouse.workers.dev/rs988/LighthouseOS-Raft-OFFICIAL-rs988-20210709-0433-GAPPS.zip",
+        "datetime": "1625805095",
+        "filehash": "089a18bcdd8bbdbf032af758cf65685b",
+        "size": 1235079373,
         "version": "Raft"
 
 }
-
