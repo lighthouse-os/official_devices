@@ -90,5 +90,20 @@
           "telegram_id": "Lucifer_morning_star_96"
         }
       ]
+  },
+  { 
+    "name": "Note 10 Pro",
+    "oem": "Xiaomi",
+    "brand": "Redmi",
+    "codename": "sweet",
+    "supported_versions": [
+      {
+        "version_code": "raft",
+        "version_name": "R",
+        "maintainer_name": "Aryan Kalra",
+        "maintainer_git_url": "https://github.com/triccster",
+        "telegram_id": "pink_guy07"
+      }
+    ]
   }
 ]
