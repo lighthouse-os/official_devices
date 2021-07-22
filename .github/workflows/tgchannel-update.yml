@@ -1,0 +1,27 @@
+name: Official Devices Workflow
+on:
+  push:
+   
+   
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+        - name: Checkout
+          uses: actions/checkout@main
+        - name: Send telegram channel update message
+          run: |
+            echo "${{ secrets.tg_token }}" > ~/.telegram.sh
+            git add .
+            export raw=$(git log -1 | grep update | awk '{ print $2 }')
+            export json="builds/$raw.json"  
+            export url=$(grep url $json | awk '{ print $2 }' | sed s/,//g | sed s/'"'//g)
+            export device=$(grep device $json | awk '{ print $2 }' | sed s/,//g | sed s/'"'//g)
+            export filename=$(grep filename $json |  awk '{ print $2 }' | sed s/,//g | sed s/'"'//g)
+            export changelog="https://raw.githubusercontent.com/lighthouse-os/official_devices/raft/changelogs/$device/$filename.txt"
+            export version=$(grep version $json | sed s/'"'//g)
+            export size=$(grep size $json | awk '{ print $2 }' | sed s/,//g | sed s/'"'//g)
+            export size=$(bc -l <<< $size/1000000000 | head -c -19)
+            git clone https://github.com/fabianonline/telegram.sh.git && sudo mv telegram.sh/telegram /usr/bin && rm -rf telegram.sh
+            telegram  -i ./banner.jpg -M  "*                 | New update for $device! |*"$'\n'"• *Download:* [$device]($url)"$'\n'"• *Size: $size GB*"$'\n'"• *CL:* [$filename]($changelog)"$'\n'"• [Channel](https://t.me/project_lighthouse)"$'\n'"• [Rom Support](https://t.me/project_lighthouse_os)"
