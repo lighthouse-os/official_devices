@@ -12,8 +12,8 @@ jobs:
           uses: actions/checkout@main
         - name: Send telegram channel update message
           run: |
+            sudo apt install jq -y
             echo "${{ secrets.tg_token }}" > ~/.telegram.sh
-            git add .
             export raw=$(git log -1 | grep update | awk '{ print $2 }')
             export json="builds/$raw.json"  
             export url=$(grep url $json | awk '{ print $2 }' | sed s/,//g | sed s/'"'//g)
@@ -24,4 +24,13 @@ jobs:
             export size=$(grep size $json | awk '{ print $2 }' | sed s/,//g | sed s/'"'//g)
             export size=$(bc -l <<< $size/1000000000 | head -c -19)
             git clone https://github.com/fabianonline/telegram.sh.git && sudo mv telegram.sh/telegram /usr/bin && rm -rf telegram.sh
-            telegram  -i ./banner.jpg -M  "*                 | New update for $device! |*"$'\n'"• *Download:* [$device]($url)"$'\n'"• *Size: $size GB*"$'\n'"• *CL:* [$filename]($changelog)"$'\n'"• [Channel](https://t.me/project_lighthouse)"$'\n'"• [Rom Support](https://t.me/project_lighthouse_os)"
+            if [ ! -z $device ];then
+              jq -c '.[]' official_devices.json | while read i; do
+                  codename=$(echo $i | jq '.codename'| sed s/'"'//g)
+                  if [ "$codename" = "$device" ];then
+                      export maintainer_name=$(echo $i | jq '.supported_versions[0].maintainer_name'| sed s/'"'//g)
+                      export maintainer_id=$(echo $i | jq '.supported_versions[0].telegram_id'| sed s/'"'//g)
+                      telegram  -i ./banner.jpg -M  "*     | New update for $device! |*"$'\n'"• *Download:* [$device]($url)"$'\n'"• *Size: $size GB*"$'\n'"• Maintainer: [$maintainer_name](https://t.me/$maintainer_id)"$'\n'"• *CL:* [$filename]($changelog)"$'\n'"• [Channel](https://t.me/project_lighthouse)"$'\n'"• [Rom Support](https://t.me/project_lighthouse_os)"
+                  fi
+              done
+            fi
