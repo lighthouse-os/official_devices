@@ -1,0 +1,5 @@
+24 bit audio support added
+Changed kernel
+Gapps inbuilt
+1/8 slow motion cam error fixed
+More stable
