@@ -16,7 +16,7 @@ jobs:
             echo "${{ secrets.tg_token }}" > ~/.telegram.sh
             export raw=$(git log -1 | grep update | awk '{ print $2 }')
             export json="builds/$raw.json"  
-            export url=$(grep url $json | awk '{ print $2 }' | sed s/,//g | sed s/'"'//g)
+            export url=$(grep pling $json | awk '{ print $2 }' | sed s/,//g | sed s/'"'//g)
             export device=$(grep device $json | awk '{ print $2 }' | sed s/,//g | sed s/'"'//g)
             export filename=$(grep filename $json |  awk '{ print $2 }' | sed s/,//g | sed s/'"'//g)
             export changelog="https://raw.githubusercontent.com/lighthouse-os/official_devices/raft/changelogs/$device/$filename.txt"
