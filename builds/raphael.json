@@ -1,12 +1,13 @@
 {
+
         "error": false,
         "device": "raphael",
-        "id": "8febda5d37c9750f8f52e7429f47d4f3b38fb089f5eeafa315949b8fbc8b669b",
-        "filename": "LighthouseOS-Raft-OFFICIAL-raphael-20210803-1705-GAPPS.zip",
-        "url": "https://downloads.projectlighthouse.cf/raphael/LighthouseOS-Raft-OFFICIAL-raphael-20210803-1705-GAPPS.zip",
-        "datetime": "1628010320",
-        "filehash": "3b142463e3a07e17f8d86b18a9e89942",
-        "size": 1638176840,
+        "id": "626897180ed597e571797b4f991426a4259be10bec4b541d7c3b7e7345fd5964",
+        "filename": "LighthouseOS-Raft-OFFICIAL-raphael-20210803-2028-GAPPS.zip",
+        "url": "https://downloads.projectlighthouse.cf/raphael/LighthouseOS-Raft-OFFICIAL-raphael-20210803-2028-GAPPS.zip",
+        "datetime": "1628022529",
+        "filehash": "adf9b2c3172f6260ecf68270e50d6aa0",
+        "size": 1638177444,
         "version": "Raft"
 
 }
