@@ -102,6 +102,7 @@
     "oem": "Xiaomi",
     "brand": "Redmi",
     "codename": "sweet",
+    "pling": "https://www.pling.com/p/1567767/",
     "supported_versions": [
       {
         "version_code": "raft",
