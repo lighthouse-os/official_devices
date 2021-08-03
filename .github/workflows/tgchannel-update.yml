@@ -16,7 +16,6 @@ jobs:
             echo "${{ secrets.tg_token }}" > ~/.telegram.sh
             export raw=$(git log -1 | grep update | awk '{ print $2 }')
             export json="builds/$raw.json"  
-            export url=$(grep pling $json | awk '{ print $2 }' | sed s/,//g | sed s/'"'//g)
             export device=$(grep device $json | awk '{ print $2 }' | sed s/,//g | sed s/'"'//g)
             export filename=$(grep filename $json |  awk '{ print $2 }' | sed s/,//g | sed s/'"'//g)
             export changelog="https://raw.githubusercontent.com/lighthouse-os/official_devices/raft/changelogs/$device/$filename.txt"
@@ -30,6 +29,7 @@ jobs:
                   if [ "$codename" = "$device" ];then
                       export maintainer_name=$(echo $i | jq '.supported_versions[0].maintainer_name'| sed s/'"'//g)
                       export maintainer_id=$(echo $i | jq '.supported_versions[0].telegram_id'| sed s/'"'//g)
+                      export url=$(echo $i | jq '.pling'| sed s/'"'//g)
                       telegram  -i ./banner.jpg -M  "*     | New update for $device! |*"$'\n'"• *Download:* [$device]($url)"$'\n'"• *Size: $size GB*"$'\n'"• Maintainer: [$maintainer_name](https://t.me/$maintainer_id)"$'\n'"• *CL:* [$filename]($changelog)"$'\n'"• [Channel](https://t.me/project_lighthouse)"$'\n'"• [Rom Support](https://t.me/project_lighthouse_os)"
                   fi
               done

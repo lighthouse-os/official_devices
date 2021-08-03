@@ -4,6 +4,7 @@
         "oem": "Realme",
         "brand": "Realme",
         "codename": "X2",
+        "pling": "https://www.pling.com/p/1567749/",
         "supported_versions": [
           {
             "version_code": "raft",
@@ -19,6 +20,7 @@
         "oem": "Xiaomi",
         "brand": "Redmi",        
         "codename": "violet",
+        "pling": "https://www.pling.com/p/1567750/",
         "supported_versions": [
           {
             "version_code": "raft",
@@ -34,6 +36,7 @@
       "oem": "Xiaomi",
       "brand": "Redmi",  
       "codename": "raphael",
+      "pling": "https://www.pling.com/p/1567731/",
       "supported_versions": [
         {
           "version_code": "raft",
@@ -49,6 +52,7 @@
       "brand": "LG",
       "oem": "LG",
       "codename": "rs988",
+      "pling": "https://www.pling.com/p/1567751/",
       "other_codenames": [
         "h830", "h850"
       ],
@@ -67,6 +71,7 @@
       "oem": "Realme",
       "brand": "Realme",
       "codename": "RMX1921",
+      "pling": "https://www.pling.com/p/1567752/",
       "supported_versions": [
         {
           "version_code": "raft",
@@ -81,6 +86,7 @@
       "oem": "Xiaomi",
       "brand": "Redmi",
       "codename": "lavender",
+      "pling": "https://www.pling.com/p/1567758/",
       "supported_versions": [
         {
           "version_code": "raft",
