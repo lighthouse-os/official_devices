@@ -1,0 +1,19 @@
+August Patch Merged
+Added Game Mode
+Now support Vanilla builds with OTA support as well
+
+Switch to ProjectLighthouse+ kernel
+More changes to cpu freqs and power curves
+Track scheduler changes from Pixel 4XL
+Improvements to ARM extensions and routines
+Better integer square rooting 
+Optimised checksum routines
+Force more streams to use efficient workqueues
+Upstreams...
+
+Basically a way Smoother, Faster and Snappier experience with a decent boost to Battery Backup.
+(about 8 hour SOT with 1 hour of heavy games in out testing games tested -> BGMI, COD, Genshin Impact)
+
+Sounds too good to be true? Try it
+
+
