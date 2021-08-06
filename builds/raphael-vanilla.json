@@ -2,12 +2,12 @@
 
         "error": false,
         "device": "raphael",
-        "id": "c898f7ddd03591f981d48cc92c509e35563a920ccff87df0cbdf32c1bc8dd040",
-        "filename": "LighthouseOS-Raft-OFFICIAL-raphael-20210803-2049-VANILLA.zip",
-        "url": "https://downloads.projectlighthouse.cf/raphael/LighthouseOS-Raft-OFFICIAL-raphael-20210803-2049-VANILLA.zip",
-        "datetime": "1628023737",
-        "filehash": "8f3344d8450d7b30a3a192e97f1ab3b8",
-        "size": 1099854700,
+        "id": "f506d52c3b8eba1f189cfadb8d1f0314e6b5d125b04a0b29f760392d88dedc7f",
+        "filename": "LighthouseOS-Raft-OFFICIAL-raphael-20210806-2021-VANILLA.zip",
+        "url": "https://downloads.projectlighthouse.cf/raphael/LighthouseOS-Raft-OFFICIAL-raphael-20210806-2021-VANILLA.zip",
+        "datetime": "1628281280",
+        "filehash": "09076dbf01fdc9ad0d64019363458a9e",
+        "size": 1201929625,
         "version": "Raft"
 
 }

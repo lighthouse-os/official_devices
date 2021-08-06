@@ -1,0 +1,7 @@
+Numerous bug fixes
+Improvements to A12 Clock
+Ship With Pixel Launcher
+Upstream gapps 
+
+Now ship with firmware for fod
+Many more changes to kernel 
