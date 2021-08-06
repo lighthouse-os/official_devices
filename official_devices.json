@@ -112,5 +112,22 @@
         "telegram_id": "pink_guy07"
       }
     ]
+  },
+  { 
+    "name": "Note 10",
+    "oem": "Xiaomi",
+    "brand": "Redmi",
+    "codename": "mojito",
+    "pling": "",
+    "supported_versions": [
+      {
+        "version_code": "raft",
+        "version_name": "R",
+        "maintainer_name": "Waxaranai",
+        "maintainer_git_url": "https://github.com/Waxaranai",
+        "telegram_id": "Waxaranai"
+      }
+    ]
   }
 ]
+
