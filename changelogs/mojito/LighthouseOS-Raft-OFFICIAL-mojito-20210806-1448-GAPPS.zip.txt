@@ -1,0 +1,11 @@
+Device Changelog:
+- Initial build
+
+Source Changelog:
+
+- August Security Patch
+- Gaming Mode 
+- Lighthouse clock
+- Android S clock improvements 
+- zlib , cpu-features, arm-optimized-routines, sqlite, etc  optimisations
+- Official support for vanilla as well
