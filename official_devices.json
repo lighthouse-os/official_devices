@@ -128,6 +128,22 @@
         "telegram_id": "Waxaranai"
       }
     ]
+  },
+  { 
+    "name": "V20",
+    "oem": "LG",
+    "brand": "LG",
+    "codename": "vs995, ls997, h910, h918, h990",
+    "pling": "  ",
+    "supported_versions": [
+      {
+        "version_code": "raft",
+        "version_name": "R",
+        "maintainer_name": "XXSEVA",
+        "maintainer_git_url": "https://github.com/xxseva44",
+        "telegram_id": "xxseva44"
+      }
+    ]
   }
 ]
 
