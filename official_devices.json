@@ -53,9 +53,38 @@
       "oem": "LG",
       "codename": "rs988",
       "pling": "https://www.pling.com/p/1567751/",
-      "other_codenames": [
-        "h830", "h850"
-      ],
+      "supported_versions": [
+        {
+          "version_code": "raft",
+          "version_name": "R",
+          "maintainer_name": "Rishawn Iyer",
+          "maintainer_git_url": "https://github.com/stealth1226",
+          "telegram_id": "stealth1226"
+        }
+      ]
+  },
+ {
+      "name": "G5",
+      "brand": "LG",
+      "oem": "LG",
+      "codename": "h830",
+      "pling": "https://www.pling.com/p/1567751/",
+      "supported_versions": [
+        {
+          "version_code": "raft",
+          "version_name": "R",
+          "maintainer_name": "Rishawn Iyer",
+          "maintainer_git_url": "https://github.com/stealth1226",
+          "telegram_id": "stealth1226"
+        }
+      ]
+  },
+ {
+      "name": "G5",
+      "brand": "LG",
+      "oem": "LG",
+      "codename": "h850",
+      "pling": "https://www.pling.com/p/1567751/",
       "supported_versions": [
         {
           "version_code": "raft",
@@ -129,11 +158,59 @@
       }
     ]
   },
-  { 
+ {
     "name": "V20",
     "oem": "LG",
     "brand": "LG",
-    "codename": ["vs995", "ls997", "h910", "h918", "h990"],
+    "codename": "vs995",
+    "pling": "  ",
+    "supported_versions": [
+      {
+        "version_code": "raft",
+        "version_name": "R",
+        "maintainer_name": "XXSEVA",
+        "maintainer_git_url": "https://github.com/xxseva44",
+        "telegram_id": "xxseva44"
+      }
+    ]
+  },
+ {
+    "name": "V20",
+    "oem": "LG",
+    "brand": "LG",
+    "codename": "ls997",
+    "pling": "  ",
+    "supported_versions": [
+      {
+        "version_code": "raft",
+        "version_name": "R",
+        "maintainer_name": "XXSEVA",
+        "maintainer_git_url": "https://github.com/xxseva44",
+        "telegram_id": "xxseva44"
+      }
+    ]
+  },
+ {
+    "name": "V20",
+    "oem": "LG",
+    "brand": "LG",
+    "codename": "h918",
+    "pling": "  ",
+    "supported_versions": [
+      {
+        "version_code": "raft",
+        "version_name": "R",
+        "maintainer_name": "XXSEVA",
+        "maintainer_git_url": "https://github.com/xxseva44",
+        "telegram_id": "xxseva44"
+      }
+    ]
+  },
+ {
+    "name": "V20",
+    "oem": "LG",
+    "brand": "LG",
+    "codename": "h990",
     "pling": "  ",
     "supported_versions": [
       {
