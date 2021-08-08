@@ -133,7 +133,7 @@
     "name": "V20",
     "oem": "LG",
     "brand": "LG",
-    "codename": "vs995, ls997, h910, h918, h990",
+    "codename": ["vs995", "ls997", "h910", "h918", "h990"],
     "pling": "  ",
     "supported_versions": [
       {
