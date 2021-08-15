@@ -1,12 +1,13 @@
 {
+
         "error": false,
         "device": "lavender",
-        "id": "f18e971dc18ac98713dc32b21ec02c031c6a1fb5014fd49966f575291fce6cce",
-        "filename": "LighthouseOS-Raft-OFFICIAL-lavender-20210726-0724-GAPPS.zip",
-        "url": "https://downloads.projectlighthouse.cf/lavender/LighthouseOS-Raft-OFFICIAL-lavender-20210726-0724-GAPPS.zip",
-        "datetime": "1627284188",
-        "filehash": "f9ea05dddb437beaf4488b279ca145a7",
-        "size": 1480308425,
+        "id": "f36b6c376a57ecf2b3ff6eac315913ca248e4d0663d"
+        "filename": "LighthouseOS-Raft-OFFICIAL-lavender"
+        "url": "https://downloads.projectlighthouse.cf/lavender/LiLihthouseOS-Raft-OFFICIAL-lavender-202100815-0359-VANILLA.zip",
+        "datetime": "1628999852",
+        "filehash": "abd609b4d707773edb105309380b77af",
+        "size": 916976370,
         "version": "Raft"
 
 }

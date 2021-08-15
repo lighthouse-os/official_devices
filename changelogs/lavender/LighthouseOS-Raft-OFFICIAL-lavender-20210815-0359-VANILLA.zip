@@ -1,0 +1,15 @@
+PROJECT
+LIGHTHOUSE.
+lavebder VANILLA
+_______________________________
+-Vilte support added.    
+-Kpti disabled to gain some performance.                
+-Enable BluetoothSar v1.1.
+-LiveDisplay added.  
+-Fix mic issues on apps like Whatsapp.         
+-Limit screen recorder's framerate to 60fps.
+-Increase CPU Boost duration to 140ms.
+-Enable the pre-rendering feature.
+-Gocam inbuild.
+-Predator 4.6x as inbuid kernel.
+_______________________________
