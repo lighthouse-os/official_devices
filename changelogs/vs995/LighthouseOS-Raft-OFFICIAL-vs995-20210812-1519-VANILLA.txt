@@ -1,0 +1,11 @@
+PROJECT
+LIGHTHOUSE.
+VS995 VANILLA
+___________________________________
+-Fixed fingerprint vibration     
+-Working vulkan                
+-Bluetooth now pairs faster  
+-Bluetooth is stronger       
+-Widevine (thank you npj!!!)   
+-Slight ram optimizations         
+___________________________________
