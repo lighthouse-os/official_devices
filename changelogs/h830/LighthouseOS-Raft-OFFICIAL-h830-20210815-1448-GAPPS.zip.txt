@@ -1,0 +1,12 @@
+Device Side Changes:
+- Improve power consumption
+- Minor undervolt & underclock
+- Update Graphics blobs from taimen(opengl V@0490)
+- Fixup Vulkan support
+
+Source Side Changes:
+- August Security Patch
+- Gaming Mode
+- Lighthouse clock
+- Android S clock improvements
+- cpu-features, arm-optimized-routines, sqlite, etc  optimisations
