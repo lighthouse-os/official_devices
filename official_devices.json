@@ -223,6 +223,22 @@
     ]
   },
  {
+    "name": "V20",
+    "oem": "LG",
+    "brand": "LG",
+    "codename": "h910",
+    "pling": "https://www.pling.com/p/1573881/",
+    "supported_versions": [
+      {
+        "version_code": "raft",
+        "version_name": "R",
+        "maintainer_name": "XXSEVA",
+        "maintainer_git_url": "https://github.com/xxseva44",
+        "telegram_id": "xxseva44"
+      }
+    ]
+  },
+ {
     "name": "5 Pro",
     "oem": "Realme",
     "brand": "Realme",
