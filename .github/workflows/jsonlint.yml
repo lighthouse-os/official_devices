@@ -13,8 +13,12 @@ jobs:
           uses: actions/checkout@main
         - name: Validate Json 
           run: |
+            sudo apt-get install jq -y > /dev/null
+            pull_number=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")
+            git fetch origin pull/$pull_number/head
+            git merge FETCH_HEAD
             npm install jsonlint -g
-            jsonlint official_devices.json || exit 1
+            jsonlint official_devices.json > /dev/null || exit 1
         - name: Close Pull Request
           if: ${{ failure() }} 
           uses: superbrothers/close-pull-request@v3
