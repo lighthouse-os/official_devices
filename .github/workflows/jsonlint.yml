@@ -1,0 +1,22 @@
+name: Json Linter
+on:
+  pull_request_target:
+    types: [opened]
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+        - name: Checkout
+          uses: actions/checkout@main
+        - name: Validate Json 
+          run: |
+            npm install jsonlint -g
+            jsonlint official_devices.json || exit 1
+        - name: Close Pull Request
+          if: ${{ failure() }} 
+          uses: superbrothers/close-pull-request@v3
+          with:
+             comment: "Json Invalid"
