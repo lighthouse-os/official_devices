@@ -275,7 +275,7 @@
         "oem": "Xiaomi",
         "brand": "Poco",        
         "codename": "phoenix",
-        "pling": "",
+        "pling": "https://www.pling.com/p/1578611/",
         "supported_versions": [
           {
             "version_code": "raft",
