@@ -1,0 +1,7 @@
+Device Changelog
+
+• Initial Official Build
+• Used Lineage Kernel
+• August Security Patch
+• FBE Build
+• SafteyNet Pass without root
