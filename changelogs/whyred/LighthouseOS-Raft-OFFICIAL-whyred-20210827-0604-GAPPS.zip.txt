@@ -1,0 +1,11 @@
+Device Changelog
+
+• Initial Official Build
+• Used extended Kernel
+• August Security Patch
+• FDE Build
+• SafteyNet Pass without root
+• Miui Camera
+• Dirac added
+• wfd didn't tested
+• Enforcing build
