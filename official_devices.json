@@ -284,7 +284,23 @@
             "maintainer_git_url": "https://github.com/RedcliffOP",
             "telegram_id": "RedcliffOP"
           }
+        ]
+      },
+    {
+        "name": "Redmi Note 5 pro",
+        "oem": "Xiaomi",
+        "brand": "Xiaomi",        
+        "codename": "whyred",
+        "pling": "",
+        "supported_versions": [
+          {
+            "version_code": "raft",
+            "version_name": "R",
+            "maintainer_name": "Darkstar Rahul",
+            "maintainer_git_url": "https://github.com/Darkstar0145",
+            "telegram_id": "Darkstar0145"
+          }
        ]
     }
-]
+ ]
 
