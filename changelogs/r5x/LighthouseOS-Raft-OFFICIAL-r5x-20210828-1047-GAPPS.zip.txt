@@ -1,0 +1,8 @@
+- Initial Official Build
+- Fix Screenrecording lag
+- enable adaptive sleep
+- enable call recording
+- uceservice hal updated to v2.3
+- GPS updated to LA.UM.9.11.r1-04500-NICOBAR.0
+- Move KharaMe Dirac to system
+- CTS Passed by default
