@@ -48,7 +48,7 @@
       ]
   },
   {
-      "name": "G5",
+      "name": "G5 (rs988)",
       "brand": "LG",
       "oem": "LG",
       "codename": "rs988",
@@ -64,7 +64,7 @@
       ]
   },
  {
-      "name": "G5",
+      "name": "G5 (h830)",
       "brand": "LG",
       "oem": "LG",
       "codename": "h830",
@@ -80,7 +80,7 @@
       ]
   },
  {
-      "name": "G5",
+      "name": "G5 (h850)",
       "brand": "LG",
       "oem": "LG",
       "codename": "h850",
@@ -159,7 +159,7 @@
     ]
   },
  {
-    "name": "V20",
+    "name": "V20 (vs995)",
     "oem": "LG",
     "brand": "LG",
     "codename": "vs995",
@@ -175,7 +175,7 @@
     ]
   },
  {
-    "name": "V20",
+    "name": "V20 (ls997)",
     "oem": "LG",
     "brand": "LG",
     "codename": "ls997",
@@ -191,7 +191,7 @@
     ]
   },
  {
-    "name": "V20",
+    "name": "V20 (h918)",
     "oem": "LG",
     "brand": "LG",
     "codename": "h918",
@@ -207,7 +207,7 @@
     ]
   },
  {
-    "name": "V20",
+    "name": "V20 (h990)",
     "oem": "LG",
     "brand": "LG",
     "codename": "h990",
@@ -223,7 +223,7 @@
     ]
   },
  {
-    "name": "V20",
+    "name": "V20 (h910)",
     "oem": "LG",
     "brand": "LG",
     "codename": "h910",
