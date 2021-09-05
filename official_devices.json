@@ -243,7 +243,7 @@
     "oem": "Realme",
     "brand": "Realme",
     "codename": "RMX1971",
-    "pling": "downloads.projectlighthouse.cf",
+    "pling": "https://www.pling.com/p/1590013/",
     "supported_versions": [
       {
         "version_code": "raft",
@@ -259,7 +259,7 @@
         "oem": "Xiaomi",
         "brand": "Redmi",        
         "codename": "twolip",
-        "pling": "",
+        "pling": "https://www.pling.com/p/1590011/",
         "supported_versions": [
           {
             "version_code": "raft",
@@ -291,7 +291,7 @@
     "oem": "Realme",
     "brand": "Realme",
     "codename": "r5x",
-    "pling": "",
+    "pling": "https://www.pling.com/p/1590009/",
     "supported_versions": [
       {
         "version_code": "raft",
