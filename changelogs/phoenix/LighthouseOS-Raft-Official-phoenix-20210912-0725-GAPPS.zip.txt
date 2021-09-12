@@ -1,0 +1,20 @@
+======= ChangeLog =======
+
+Device Side -
+
+- Change prebuilt GCam to BSG
+- Update blobs from miui phoenix 21.9.1
+- Update graphics from LA.UM.9.1.r1-10900-SMxxx0.0
+- Update redfin fp to sept 2021
+- POCOParts: Add force USB 2.0 FastCharge toggle
+- Upstreamed Kernel to 4.14.246 + other misc kernel side changes
+
+Source Side -
+
+- Merge September Security patch
+- Added Volume quick settings tile
+- Added Sensor block per package
+- Added Shapeshift A12 clock
+- Added Status bar clock customization
+- Added Colorbucket
+- Added Signature spoofing fixed

@@ -2,12 +2,12 @@
 
         "error": false,
         "device": "phoenix",
-        "id": "d20ccd936cf7e601894377b90c9753bd891d43a952a98d90a8af3b3039a72b71",
-        "filename": "LighthouseOS-Raft-Official-phoenix-20210904-1309-GAPPS.zip",
-        "url": "https://downloads.projectlighthouse.cf/phoenix/LighthouseOS-Raft-Official-phoenix-20210904-1309-GAPPS.zip",
-        "datetime": "1630760940",
-        "filehash": "32bba4159358cfc353e14e47c1e18ef7",
-        "size": 1487124956,
+        "id": "0e8808e63a5d709c2f32a8e5635fb84f1e956b49773e7008af87e1e39a9397df",
+        "filename": "LighthouseOS-Raft-Official-phoenix-20210912-0725-GAPPS.zip",
+        "url": "https://downloads.projectlighthouse.cf/phoenix/LighthouseOS-Raft-Official-phoenix-20210912-0725-GAPPS.zip",
+        "datetime": "1631431493",
+        "filehash": "e282a973723ef14de7a3ea19a24d83d1",
+        "size": 1489042515,
         "version": "Raft"
 
 }
