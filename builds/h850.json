@@ -2,12 +2,12 @@
 
         "error": false,
         "device": "h850",
-        "id": "deeaeff8a4fd0a2f6972032652e890b08edb853dfd4e1388a3e64b9fa0953bad",
-        "filename": "LighthouseOS-Raft-OFFICIAL-h850-20210816-0533-GAPPS.zip",
-        "url": "https://downloads.projectlighthouse.cf/h850/LighthouseOS-Raft-OFFICIAL-h850-20210816-0533-GAPPS.zip",
-        "datetime": "1629091913",
-        "filehash": "e9aa0070f95d93929b07e5fc6fedf52e",
-        "size": 1273170391,
+        "id": "4ebdf5e652a5c4ca173dcdd832de37b3ccd2f164d05f9af8ae97ce84a7c72df3",
+        "filename": "LighthouseOS-Raft-OFFICIAL-h850-20210913-1419-GAPPS.zip",
+        "url": "https://downloads.projectlighthouse.cf/h850/LighthouseOS-Raft-OFFICIAL-h850-20210913-1419-GAPPS.zip",
+        "datetime": "1631542679",
+        "filehash": "25f87ad909aa54684b7fd4e6745e73dd",
+        "size": 1251649946,
         "version": "Raft"
 
 }
