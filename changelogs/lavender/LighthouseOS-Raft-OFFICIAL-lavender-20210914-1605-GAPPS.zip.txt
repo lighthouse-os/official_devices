@@ -1,0 +1,18 @@
+* lavender:Uprev camera.provider to 2.6.
+* lavender:configs: Update whitelisting for HotwordEnrollment.
+* lavender:Add permission for Google Photos.
+* lavender: Add battery LED overlays.
+* lavender: disable config_multiColorBatteryLed.
+* sdm660-common: overlay-lineage: Enable call recording.
+* address lighthouse overlay-directory.
+* lavender: init: Use more generic values for GameMode.
+* lavender: Build LiveDisplay.
+* lavender: product.prop : add gboard props.
+* lavender:init:Add script for exTHmUI's GameMode performance control.
+* lavender:Disable kpti.
+* rootdir/bin:increase CPU Boost duration to 140ms.
+* lavender:Fix all Selinux Denials.
+* lavender:Don't build Snap/Camera2.
+* Gcam added by defulat.
+* lavender: overlay-lineage: Limit screen recorder's framerate to 60fps.
+* lavender: update redfin build fingerprint.
