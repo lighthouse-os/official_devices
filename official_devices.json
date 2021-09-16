@@ -291,7 +291,7 @@
     "oem": "Xiaomi",
     "brand": "Redmi",
     "codename": "merlin",
-    "pling": "",
+    "pling": "https://downloads.projectlighthouse.cf/merlin/",
     "supported_versions": [
       {
         "version_code": "raft",
