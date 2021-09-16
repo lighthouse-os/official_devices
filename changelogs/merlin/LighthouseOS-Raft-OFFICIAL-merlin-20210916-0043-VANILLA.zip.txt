@@ -1,0 +1,17 @@
+Device changelog :
+
+- Initial OSS R Vendor
+- September Security Patch
+- SafetyNet Passes By Default
+- Pizza Kernel By Default
+
+Source changelog :
+
+- New about phone image 
+- Gaming mode from exthmui
+- Volume quick settings tile
+- Sensor block per package
+- Shapeshift A12 clock
+- Status bar clock customization
+- Colorbucket
+- Signature spoofing fixed
