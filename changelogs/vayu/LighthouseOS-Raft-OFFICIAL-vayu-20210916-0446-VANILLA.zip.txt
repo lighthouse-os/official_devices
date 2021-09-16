@@ -1,0 +1,31 @@
+Device changelog :
+
+- Initial official build
+- Rebased on arrow trees
+- September security patch
+- Enable performance profile support
+- Made the UI smoother 
+- Add support for FPS Info tile
+- Introduce Refresh Rate QS tile
+- Disable CPU hotplug data parsing on mi_thermald
+- Wire-up preferred refresh-rate value too
+- Add summary for custom haptic feedback
+- Improve FooterPreference layout
+- Sync some props from V12.5.4.0.RJUMIXM
+- Remove QCOM WFD implementation
+- Update blobs from miui_VAYUGlobal_V12.5.4.0.RJUMIXM_d43dee18b9_11.0
+- Add summary for Clear speaker and Dirac
+- Add kernel checking to the HBM and CABC mode switcher
+- Add support for LCD HBM and CABC
+- Adapt HapticUtils to app-level shared preferences
+
+Source changelog :
+
+- New about phone image 
+- Gaming mode from exthmui 
+- Volume quick settings tile 
+- Sensor block per package 
+- Shapeshift A12 clock 
+- Status bar clock customization 
+- Colorbucket
+- Signature spoofing fixed
