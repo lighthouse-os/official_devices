@@ -1,0 +1,15 @@
+Device Side Changelog: 
+
+- New Spectrum Profiles Quick Settings Tile to switch between different performance profiles.
+- Replace Photos app with Gallery GO.
+- Switch to redfin fingerprint
+
+Source Side Changelog: 
+- New about phone image 
+- Gaming mode from exthmui
+- Volume quick settings tile
+- Sensor block per package
+- Shapeshift A12 clock
+- Status bar clock customization
+- Colorbucket
+- Signature spoofing fixed
