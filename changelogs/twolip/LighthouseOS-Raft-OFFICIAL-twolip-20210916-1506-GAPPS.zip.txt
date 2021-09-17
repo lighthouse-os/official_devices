@@ -1,0 +1,9 @@
+Device Changelog
+
+• Switch to September Update
+• Used Latest Lineage kernel
+• September Security Patch
+• FBE Build
+• SafteyNet Pass without root
+• Added a variable for faster bootup
+• Added Pixel Prop for Unlimited Google Photos Storage
