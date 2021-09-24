@@ -1,0 +1,16 @@
+Device changelog :
+
+- Fixed some issues in WFD
+- Added reboot/recovery button in qs tile
+- Add KCAL Support
+- Enable AOSP SIM toggle
+- Enable GBoard rounded corners
+- Disable debug.sf.latch_unsignaled
+- Disable metadata dynamic_fps
+- Disable UBWC
+- Update sepolicy from sm8250-common
+- Allow all 4 rotations
+- Adjusting screen timeouts
+- Set config_wifiDisplaySupportsProtectedBuffers to false
+- Update RU and UK translation
+- Sync vendor.display.config* package definition as per stock
