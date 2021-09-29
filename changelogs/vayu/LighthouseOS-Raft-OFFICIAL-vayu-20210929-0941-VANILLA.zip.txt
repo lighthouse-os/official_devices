@@ -1,0 +1,7 @@
+Device changelog :
+
+- Fixed Deep sleep issue
+- Show "Turbo charging" instead of "Charging rapidly"
+- Disable Bluetooth by default
+- Hide Magisk Better
+- Ui more smoother now
