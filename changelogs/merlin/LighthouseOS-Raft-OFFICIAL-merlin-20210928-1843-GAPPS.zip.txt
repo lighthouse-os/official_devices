@@ -1,0 +1,8 @@
+Device changelog :
+
+- Add XiaomiParts
+- Using Sunfish FP September
+- Make UI Smoother
+- SafetyNet Passes By Default
+- Pizza Kernel By Default
+- Tune zram performance
