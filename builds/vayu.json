@@ -2,12 +2,12 @@
 
         "error": false,
         "device": "vayu",
-        "id": "3d0311667c95941046bc00fa2091fb82adb5c37514d73d836e6a4c1abf2556ce",
-        "filename": "LighthouseOS-Raft-OFFICIAL-vayu-20210929-1004-GAPPS.zip",
-        "url": "https://downloads.projectlighthouse.cf/vayu/LighthouseOS-Raft-OFFICIAL-vayu-20210929-1004-GAPPS.zip",
-        "datetime": "1632909848",
-        "filehash": "5993fb0a4a28a754aed66191e925927b",
-        "size": 1555651325,
+        "id": "f37f4409567976257c154d8bb3ddf4da8a44a298e5dda6cbae82b88f7ccadefa",
+        "filename": "LighthouseOS-Raft-OFFICIAL-vayu-20211001-1715-GAPPS.zip",
+        "url": "https://downloads.projectlighthouse.cf/vayu/LighthouseOS-Raft-OFFICIAL-vayu-20211001-1715-GAPPS.zip",
+        "datetime": "1633108543",
+        "filehash": "d4277140494dff54d8910174042efd38",
+        "size": 1722246600,
         "version": "Raft"
 
 }
