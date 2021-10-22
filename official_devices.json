@@ -8,6 +8,7 @@
         "supported_versions": [
           {
             "version_code": "raft",
+            "deprecated": false,
             "version_name": "R",
             "maintainer_name": "harsh_799",
             "maintainer_git_url": "https://github.com/HarshAnand-799",
@@ -24,6 +25,7 @@
         "supported_versions": [
           {
             "version_code": "raft",
+            "deprecated": false,
             "version_name": "R",
             "maintainer_name": "galanteria01",
             "maintainer_git_url": "https://github.com/galanteria01",
@@ -40,6 +42,7 @@
       "supported_versions": [
         {
           "version_code": "raft",
+          "deprecated": false,
           "version_name": "R",
           "maintainer_name": "cannedshroud",
           "maintainer_git_url": "https://github.com/cannedshroud",
@@ -56,6 +59,7 @@
       "supported_versions": [
         {
           "version_code": "raft",
+          "deprecated": false,
           "version_name": "R",
           "maintainer_name": "stealth1226",
           "maintainer_git_url": "https://github.com/stealth1226",
@@ -72,6 +76,7 @@
       "supported_versions": [
         {
           "version_code": "raft",
+          "deprecated": false,
           "version_name": "R",
           "maintainer_name": "stealth1226",
           "maintainer_git_url": "https://github.com/stealth1226",
@@ -88,6 +93,7 @@
       "supported_versions": [
         {
           "version_code": "raft",
+          "deprecated": false,
           "version_name": "R",
           "maintainer_name": "stealth1226",
           "maintainer_git_url": "https://github.com/stealth1226",
@@ -103,6 +109,7 @@
       "supported_versions": [
         {
           "version_code": "raft",
+          "deprecated": false,
           "version_name": "R",
           "maintainer_name": "lucifer_morning_star_96",
           "maintainer_git_url": "https://github.com/Lucifer-morning-star-96",
@@ -119,6 +126,7 @@
     "supported_versions": [
       {
         "version_code": "raft",
+        "deprecated": false,
         "version_name": "R",
         "maintainer_name": "pink_guy07",
         "maintainer_git_url": "https://github.com/triccster",
@@ -135,6 +143,7 @@
     "supported_versions": [
       {
         "version_code": "raft",
+        "deprecated": false,
         "version_name": "R",
         "maintainer_name": "Waxaranai",
         "maintainer_git_url": "https://github.com/Waxaranai",
@@ -151,6 +160,7 @@
     "supported_versions": [
       {
         "version_code": "raft",
+        "deprecated": false,
         "version_name": "R",
         "maintainer_name": "XXSEVA",
         "maintainer_git_url": "https://github.com/xxseva44",
@@ -167,6 +177,7 @@
     "supported_versions": [
       {
         "version_code": "raft",
+        "deprecated": false,
         "version_name": "R",
         "maintainer_name": "XXSEVA",
         "maintainer_git_url": "https://github.com/xxseva44",
@@ -183,6 +194,7 @@
     "supported_versions": [
       {
         "version_code": "raft",
+        "deprecated": false,
         "version_name": "R",
         "maintainer_name": "XXSEVA",
         "maintainer_git_url": "https://github.com/xxseva44",
@@ -199,6 +211,7 @@
     "supported_versions": [
       {
         "version_code": "raft",
+        "deprecated": false,
         "version_name": "R",
         "maintainer_name": "XXSEVA",
         "maintainer_git_url": "https://github.com/xxseva44",
@@ -215,6 +228,7 @@
     "supported_versions": [
       {
         "version_code": "raft",
+        "deprecated": false,
         "version_name": "R",
         "maintainer_name": "XXSEVA",
         "maintainer_git_url": "https://github.com/xxseva44",
@@ -231,6 +245,7 @@
     "supported_versions": [
       {
         "version_code": "raft",
+        "deprecated": false,
         "version_name": "R",
         "maintainer_name": "eunhachingu",
         "maintainer_git_url": "https://github.com/umjichingu",
@@ -247,6 +262,7 @@
         "supported_versions": [
           {
             "version_code": "raft",
+            "deprecated": false,
             "version_name": "R",
             "maintainer_name": "XelXen",
             "maintainer_git_url": "https://github.com/XelXen",
@@ -263,6 +279,7 @@
         "supported_versions": [
           {
             "version_code": "raft",
+            "deprecated": false,
             "version_name": "R",
             "maintainer_name": "Redcliff",
             "maintainer_git_url": "https://github.com/RedcliffOP",
@@ -279,6 +296,7 @@
     "supported_versions": [
       {
         "version_code": "raft",
+        "deprecated": false,
         "version_name": "R",
         "maintainer_name": "eunhachingu",
         "maintainer_git_url": "https://github.com/umjichingu",
@@ -295,6 +313,7 @@
     "supported_versions": [
       {
         "version_code": "raft",
+        "deprecated": false,
         "version_name": "R",
         "maintainer_name": "ZeroTwellve",
         "maintainer_git_url": "https://github.com/rubyzee",
@@ -311,6 +330,7 @@
      "supported_versions": [
        {
          "version_code": "raft",
+         "deprecated": false,
          "version_name": "R",
          "maintainer_name": "FatalError",
          "maintainer_git_url": "https://github.com/mohitmarwaha98",
@@ -327,6 +347,7 @@
      "supported_versions": [
        {
          "version_code": "raft",
+         "deprecated": false,
          "version_name": "R",
          "maintainer_name": "Nanairo",
          "maintainer_git_url": "https://github.com/rrnanairo",
