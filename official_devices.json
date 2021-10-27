@@ -290,8 +290,8 @@
     "name": "Note 9",
     "oem": "Xiaomi",
     "brand": "Redmi",
-    "codename": "merlin",
-    "pling": "https://downloads.projectlighthouse.cf/merlin/",
+    "codename": "merlinx",
+    "pling": "https://downloads.projectlighthouse.cf/merlinx/",
     "supported_versions": [
       {
         "version_code": "raft",
