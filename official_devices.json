@@ -290,8 +290,8 @@
     "name": "Note 9",
     "oem": "Xiaomi",
     "brand": "Redmi",
-    "codename": "merlin",
-    "pling": "https://downloads.projectlighthouse.cf/merlin/",
+    "codename": "merlinx",
+    "pling": "https://downloads.projectlighthouse.cf/merlinx/",
     "supported_versions": [
       {
         "version_code": "raft",
@@ -307,7 +307,7 @@
      "oem": "Xiaomi",
      "brand": "Poco",
      "codename": "vayu",
-     "pling": "",
+     "pling": "downloads.projectlighthouse.cf/vayu/",
      "supported_versions": [
        {
          "version_code": "raft",
@@ -315,6 +315,22 @@
          "maintainer_name": "FatalError",
          "maintainer_git_url": "https://github.com/mohitmarwaha98",
          "telegram_id": "Only_Performance"
+          }
+       ]
+  },
+ {
+     "name": "8 Lite",
+     "oem": "Xiaomi",
+     "brand": "Mi",
+     "codename": "platina",
+     "pling": " ",
+     "supported_versions": [
+       {
+         "version_code": "raft",
+         "version_name": "R",
+         "maintainer_name": "Nanairo",
+         "maintainer_git_url": "https://github.com/rrnanairo",
+         "telegram_id": "rrnanairo"
        }
      ]
    }
