@@ -271,22 +271,6 @@
        ]
   },
  {
-    "name": "5 Series",
-    "oem": "Realme",
-    "brand": "Realme",
-    "codename": "r5x",
-    "pling": "https://www.pling.com/p/1590009/",
-    "supported_versions": [
-      {
-        "version_code": "raft",
-        "version_name": "R",
-        "maintainer_name": "eunhachingu",
-        "maintainer_git_url": "https://github.com/umjichingu",
-        "telegram_id": "eunhachingu"
-          }
-       ]
-  },
- {
     "name": "Note 9",
     "oem": "Xiaomi",
     "brand": "Redmi",
