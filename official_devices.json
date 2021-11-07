@@ -48,9 +48,9 @@
       ]
   },
   {
-      "name": "G5 (rs988)",
+      "name": "G5",
       "brand": "LG",
-      "oem": "LG",
+      "oem": "LGE",
       "codename": "rs988",
       "pling": "https://www.pling.com/p/1567751/",
       "supported_versions": [
@@ -64,9 +64,9 @@
       ]
   },
  {
-      "name": "G5 (h830)",
+      "name": "G5",
       "brand": "LG",
-      "oem": "LG",
+      "oem": "LGE",
       "codename": "h830",
       "pling": "https://www.pling.com/p/1567751/",
       "supported_versions": [
@@ -80,9 +80,9 @@
       ]
   },
  {
-      "name": "G5 (h850)",
+      "name": "G5",
       "brand": "LG",
-      "oem": "LG",
+      "oem": "LGE",
       "codename": "h850",
       "pling": "https://www.pling.com/p/1567751/",
       "supported_versions": [
@@ -143,8 +143,8 @@
     ]
   },
  {
-    "name": "V20 (vs995)",
-    "oem": "LG",
+    "name": "V20",
+    "oem": "LGE",
     "brand": "LG",
     "codename": "vs995",
     "pling": "https://www.pling.com/p/1573881/",
@@ -159,8 +159,8 @@
     ]
   },
  {
-    "name": "V20 (ls997)",
-    "oem": "LG",
+    "name": "V20",
+    "oem": "LGE",
     "brand": "LG",
     "codename": "ls997",
     "pling": "https://www.pling.com/p/1573881/",
@@ -175,8 +175,8 @@
     ]
   },
  {
-    "name": "V20 (h918)",
-    "oem": "LG",
+    "name": "V20",
+    "oem": "LGE",
     "brand": "LG",
     "codename": "h918",
     "pling": "https://www.pling.com/p/1573881/",
@@ -191,8 +191,8 @@
     ]
   },
  {
-    "name": "V20 (h990)",
-    "oem": "LG",
+    "name": "V20",
+    "oem": "LGE",
     "brand": "LG",
     "codename": "h990",
     "pling": "https://www.pling.com/p/1573881/",
@@ -207,8 +207,8 @@
     ]
   },
  {
-    "name": "V20 (h910)",
-    "oem": "LG",
+    "name": "V20",
+    "oem": "LGE",
     "brand": "LG",
     "codename": "h910",
     "pling": "https://www.pling.com/p/1573881/",
