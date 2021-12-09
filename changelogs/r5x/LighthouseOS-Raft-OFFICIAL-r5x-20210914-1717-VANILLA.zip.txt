@@ -1,5 +1,0 @@
-- Initial Build
-- CTS Passed by default
-- Force show network traffic on statusbar
-- RealmeParts Added
-- Switched from GAPPS to Vanilla

@@ -1,7 +1,0 @@
- // Device Changelogs //
-
-• Removed R Parts
-• Added Smart Charging and Few Icons in Realme Settings
-• Removed GCam
-• Enable Iorapd for Fast App-Opening
-• Reduced Sceeen Off Delay

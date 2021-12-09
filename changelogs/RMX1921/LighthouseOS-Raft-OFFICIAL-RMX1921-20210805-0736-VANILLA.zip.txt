@@ -1,9 +1,0 @@
-Device Changelog
-
-• August security patch
-• Kernel Upstream to 4.9.277
-• Updated Redfin's fp 
-• DT2W Disabled
-• Added Game Mode
-• SafteyNet Pass without root as usual
-• More improvements & bug fixes

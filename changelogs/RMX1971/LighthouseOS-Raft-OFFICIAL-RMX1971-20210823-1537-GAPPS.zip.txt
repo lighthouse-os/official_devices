@@ -1,4 +1,0 @@
-- Initial  Build
-- Safetynet Passes by Default
-- Upstreamed Kernel to 4.9.280
-- GAPPS Included

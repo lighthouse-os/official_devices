@@ -1,7 +1,0 @@
-Device changelog :
-
-- Minor refresh rate improvements
-- Fixed QS Lags
-- Graphic UI updates (Smoother scrolling)
-- Switched to Mochi kernel (base branch)
-- Changed default wallpaper
