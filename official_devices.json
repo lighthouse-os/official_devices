@@ -108,22 +108,6 @@
           "maintainer_name": "lucifer_morning_star_96",
           "maintainer_git_url": "https://github.com/Lucifer-morning-star-96",
           "telegram_id": "Lucifer_morning_star_96"
-        }
-      ]
-  },
-  { 
-    "name": "Note 10 Pro",
-    "oem": "Xiaomi",
-    "brand": "Redmi",
-    "codename": "sweet",
-    "pling": "https://www.pling.com/p/1567767/",
-    "supported_versions": [
-      {
-        "version_code": "sailboat",
-        "version_name": "S",
-        "maintainer_name": "pink_guy07",
-        "maintainer_git_url": "https://github.com/triccster",
-        "telegram_id": "pink_guy07"
       }
     ]
   },
@@ -305,16 +289,16 @@
        ]
   },
  {
-     "name": "X3 Pro",
+     "name": "Note 10 pro",
      "oem": "Xiaomi",
-     "brand": "Poco",
-     "codename": "vayu",
-     "pling": "downloads.projectlighthouse.cf/vayu/",
+     "brand": "Redmi",
+     "codename": "sweet",
+     "pling": "downloads.projectlighthouse.cf/sweet/",
      "supported_versions": [
        {
          "version_code": "sailboat",
          "version_name": "S",
-         "maintainer_name": "FatalError",
+         "maintainer_name": "Mohit",
          "maintainer_git_url": "https://github.com/mohitmarwaha98",
          "telegram_id": "Only_Performance"
           }
