@@ -1,4 +1,4 @@
-name: Json Linter
+name: Json Validator
 on:
   pull_request_target:
     types: [opened]
@@ -16,11 +16,11 @@ jobs:
             sudo apt-get install jq -y > /dev/null
             pull_number=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")
             git fetch origin pull/$pull_number/head
-            git merge FETCH_HEAD
+            git checkout -b pr FETCH_HEAD
             npm install jsonlint -g
             jsonlint official_devices.json > /dev/null || exit 1
         - name: Close Pull Request
           if: ${{ failure() }} 
           uses: superbrothers/close-pull-request@v3
           with:
-             comment: "Json Invalid"
+             comment: "official_devices.json invalid"
