@@ -319,5 +319,21 @@
          "telegram_id": "rrnanairo"
        }
      ]
+   },
+ {
+     "name": "atoll family",
+     "oem": "Xiaomi",
+     "brand": "Xiaomi",
+     "codename": "miatoll",
+     "pling": " ",
+     "supported_versions": [
+       {
+         "version_code": "sailboat",
+         "version_name": "S",
+         "maintainer_name": "Stealth1226",
+         "maintainer_git_url": "https://github.com/stealth1226",
+         "telegram_id": "Stealth1226"
+       }
+     ]
    }
 ]
