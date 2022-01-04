@@ -335,5 +335,22 @@
          "telegram_id": "Stealth1226"
        }
      ]
+  },
+ {
+     "name": "Alioth",
+     "oem": "Xiaomi",
+     "brand": "Mi",
+     "codename": "alioth",
+     "pling": " ",
+     "supported_versions": [
+       {
+         "version_code": "sailboat",
+         "version_name": "S",
+         "maintainer_name": "Drishal",
+         "maintainer_git_url": "https://github.com/drishal",
+         "telegram_id": "drishal"
+       }
+     ]
    }
+
 ]
