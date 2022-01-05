@@ -309,7 +309,7 @@
      "oem": "Xiaomi",
      "brand": "Mi",
      "codename": "platina",
-     "pling": " ",
+     "pling": "https://downloads.projectlighthouse.cf/platina/",
      "supported_versions": [
        {
          "version_code": "sailboat",
@@ -325,7 +325,7 @@
      "oem": "Xiaomi",
      "brand": "Mi",
      "codename": "miatoll",
-     "pling": " ",
+     "pling": "https://downloads.projectlighthouse.cf/miatoll/",
      "supported_versions": [
        {
          "version_code": "sailboat",
@@ -341,7 +341,7 @@
      "oem": "Xiaomi",
      "brand": "Mi",
      "codename": "alioth",
-     "pling": " ",
+     "pling": "https://downloads.projectlighthouse.cf/alioth/",
      "supported_versions": [
        {
          "version_code": "sailboat",
