@@ -1,117 +1,118 @@
 [
-    {
-        "name": "X2",
-        "oem": "Realme",
-        "brand": "Realme",
-        "codename": "X2",
-        "pling": "https://www.pling.com/p/1567749/",
-        "supported_versions": [
-          {
-            "version_code": "sailboat",
-            "version_name": "S",
-            "maintainer_name": "harsh_799",
-            "maintainer_git_url": "https://github.com/HarshAnand-799",
-            "telegram_id": "harsh_799"
-          }
-        ]
-    },
-    {
-        "name": "Note 7 Pro",
-        "oem": "Xiaomi",
-        "brand": "Redmi",        
-        "codename": "violet",
-        "pling": "https://www.pling.com/p/1567750/",
-        "supported_versions": [
-          {
-            "version_code": "sailboat",
-            "version_name": "S",
-            "maintainer_name": "galanteria01",
-            "maintainer_git_url": "https://github.com/galanteria01",
-            "telegram_id": "galanteria01"
-          }
-        ]
-    },
-    {
-      "name": "K20 Pro",
-      "oem": "Xiaomi",
-      "brand": "Redmi",  
-      "codename": "raphael",
-      "pling": "https://www.pling.com/p/1567731/",
-      "supported_versions": [
-        {
-          "version_code": "sailboat",
-          "version_name": "S",
-          "maintainer_name": "cannedshroud",
-          "maintainer_git_url": "https://github.com/cannedshroud",
-          "telegram_id": "cannedshroud"
-        }
-      ]
-  },
   {
-      "name": "G5",
-      "brand": "LG",
-      "oem": "LGE",
-      "codename": "rs988",
-      "sisters": ["rs988", "h830", "h850"],
-      "pling": "https://www.pling.com/p/1567751/",
-      "supported_versions": [
-        {
-          "version_code": "sailboat",
-          "version_name": "S",
-          "maintainer_name": "stealth1226",
-          "maintainer_git_url": "https://github.com/stealth1226",
-          "telegram_id": "stealth1226"
-        }
-      ]
-  },
- {
-      "name": "G5",
-      "brand": "LG",
-      "oem": "LGE",
-      "codename": "h830",
-      "pling": "https://www.pling.com/p/1567751/",
-      "supported_versions": [
-        {
-          "version_code": "sailboat",
-          "version_name": "S",
-          "maintainer_name": "stealth1226",
-          "maintainer_git_url": "https://github.com/stealth1226",
-          "telegram_id": "stealth1226"
-        }
-      ]
-  },
- {
-      "name": "G5",
-      "brand": "LG",
-      "oem": "LGE",
-      "codename": "h850",
-      "pling": "https://www.pling.com/p/1567751/",
-      "supported_versions": [
-        {
-          "version_code": "sailboat",
-          "version_name": "S",
-          "maintainer_name": "stealth1226",
-          "maintainer_git_url": "https://github.com/stealth1226",
-          "telegram_id": "stealth1226"
-        }
-      ]
-  },
-  {      "name": "Note 7",
-      "oem": "Xiaomi",
-      "brand": "Redmi",
-      "codename": "lavender",
-      "pling": "https://www.pling.com/p/1567758/",
-      "supported_versions": [
-        {
-          "version_code": "sailboat",
-          "version_name": "S",
-          "maintainer_name": "MukulSharma06175",
-          "maintainer_git_url": "https://github.com/Mukulsharma06175",
-          "telegram_id": "MukulSharma06175"
+    "name": "X2",
+    "oem": "Realme",
+    "brand": "Realme",
+    "codename": "X2",
+    "pling": "https://www.pling.com/p/1567749/",
+    "supported_versions": [
+      {
+        "version_code": "sailboat",
+        "version_name": "S",
+        "maintainer_name": "harsh_799",
+        "maintainer_git_url": "https://github.com/HarshAnand-799",
+        "telegram_id": "harsh_799"
       }
     ]
   },
-  { 
+  {
+    "name": "Note 7 Pro",
+    "oem": "Xiaomi",
+    "brand": "Redmi",
+    "codename": "violet",
+    "pling": "https://www.pling.com/p/1567750/",
+    "supported_versions": [
+      {
+        "version_code": "sailboat",
+        "version_name": "S",
+        "maintainer_name": "galanteria01",
+        "maintainer_git_url": "https://github.com/galanteria01",
+        "telegram_id": "galanteria01"
+      }
+    ]
+  },
+  {
+    "name": "K20 Pro",
+    "oem": "Xiaomi",
+    "brand": "Redmi",
+    "codename": "raphael",
+    "pling": "https://www.pling.com/p/1567731/",
+    "supported_versions": [
+      {
+        "version_code": "sailboat",
+        "version_name": "S",
+        "maintainer_name": "cannedshroud",
+        "maintainer_git_url": "https://github.com/cannedshroud",
+        "telegram_id": "cannedshroud"
+      }
+    ]
+  },
+  {
+    "name": "G5",
+    "brand": "LG",
+    "oem": "LGE",
+    "codename": "rs988",
+    "sisters": ["rs988", "h830", "h850"],
+    "pling": "https://www.pling.com/p/1567751/",
+    "supported_versions": [
+      {
+        "version_code": "sailboat",
+        "version_name": "S",
+        "maintainer_name": "stealth1226",
+        "maintainer_git_url": "https://github.com/stealth1226",
+        "telegram_id": "stealth1226"
+      }
+    ]
+  },
+  {
+    "name": "G5",
+    "brand": "LG",
+    "oem": "LGE",
+    "codename": "h830",
+    "pling": "https://www.pling.com/p/1567751/",
+    "supported_versions": [
+      {
+        "version_code": "sailboat",
+        "version_name": "S",
+        "maintainer_name": "stealth1226",
+        "maintainer_git_url": "https://github.com/stealth1226",
+        "telegram_id": "stealth1226"
+      }
+    ]
+  },
+  {
+    "name": "G5",
+    "brand": "LG",
+    "oem": "LGE",
+    "codename": "h850",
+    "pling": "https://www.pling.com/p/1567751/",
+    "supported_versions": [
+      {
+        "version_code": "sailboat",
+        "version_name": "S",
+        "maintainer_name": "stealth1226",
+        "maintainer_git_url": "https://github.com/stealth1226",
+        "telegram_id": "stealth1226"
+      }
+    ]
+  },
+  {
+    "name": "Note 7",
+    "oem": "Xiaomi",
+    "brand": "Redmi",
+    "codename": "lavender",
+    "pling": "https://www.pling.com/p/1567758/",
+    "supported_versions": [
+      {
+        "version_code": "sailboat",
+        "version_name": "S",
+        "maintainer_name": "MukulSharma06175",
+        "maintainer_git_url": "https://github.com/Mukulsharma06175",
+        "telegram_id": "MukulSharma06175"
+      }
+    ]
+  },
+  {
     "name": "Note 10",
     "oem": "Xiaomi",
     "brand": "Redmi",
@@ -127,7 +128,7 @@
       }
     ]
   },
- {
+  {
     "name": "V20",
     "oem": "LGE",
     "brand": "LG",
@@ -144,7 +145,7 @@
       }
     ]
   },
- {
+  {
     "name": "V20",
     "oem": "LGE",
     "brand": "LG",
@@ -160,7 +161,7 @@
       }
     ]
   },
- {
+  {
     "name": "V20",
     "oem": "LGE",
     "brand": "LG",
@@ -176,7 +177,7 @@
       }
     ]
   },
- {
+  {
     "name": "V20",
     "oem": "LGE",
     "brand": "LG",
@@ -192,7 +193,7 @@
       }
     ]
   },
- {
+  {
     "name": "V20",
     "oem": "LGE",
     "brand": "LG",
@@ -208,7 +209,7 @@
       }
     ]
   },
- {
+  {
     "name": "5 Pro",
     "oem": "Realme",
     "brand": "Realme",
@@ -224,39 +225,39 @@
       }
     ]
   },
- {
-        "name": "Note 6 Pro",
-        "oem": "Xiaomi",
-        "brand": "Redmi",        
-        "codename": "twolip",
-        "pling": "https://www.pling.com/p/1590011/",
-        "supported_versions": [
-          {
-            "version_code": "sailboat",
-            "version_name": "S",
-            "maintainer_name": "XelXen",
-            "maintainer_git_url": "https://github.com/XelXen",
-            "telegram_id": "xelxeninc"
-          }
-        ]
-      },  
-    {
-        "name": "X2",
-        "oem": "Xiaomi",
-        "brand": "Poco",        
-        "codename": "phoenix",
-        "pling": "https://www.pling.com/p/1578611/",
-        "supported_versions": [
-          {
-            "version_code": "sailboat",
-            "version_name": "S",
-            "maintainer_name": "Redcliff",
-            "maintainer_git_url": "https://github.com/RedcliffOP",
-            "telegram_id": "RedcliffOP"
-          }
-       ]
+  {
+    "name": "Note 6 Pro",
+    "oem": "Xiaomi",
+    "brand": "Redmi",
+    "codename": "twolip",
+    "pling": "https://www.pling.com/p/1590011/",
+    "supported_versions": [
+      {
+        "version_code": "sailboat",
+        "version_name": "S",
+        "maintainer_name": "XelXen",
+        "maintainer_git_url": "https://github.com/XelXen",
+        "telegram_id": "xelxeninc"
+      }
+    ]
   },
- {
+  {
+    "name": "X2",
+    "oem": "Xiaomi",
+    "brand": "Poco",
+    "codename": "phoenix",
+    "pling": "https://www.pling.com/p/1578611/",
+    "supported_versions": [
+      {
+        "version_code": "sailboat",
+        "version_name": "S",
+        "maintainer_name": "Redcliff",
+        "maintainer_git_url": "https://github.com/RedcliffOP",
+        "telegram_id": "RedcliffOP"
+      }
+    ]
+  },
+  {
     "name": "5 Series",
     "oem": "Realme",
     "brand": "Realme",
@@ -269,10 +270,10 @@
         "maintainer_name": "eunhachingu",
         "maintainer_git_url": "https://github.com/umjichingu",
         "telegram_id": "eunhachingu"
-          }
-       ]
+      }
+    ]
   },
- {
+  {
     "name": "Note 9",
     "oem": "Xiaomi",
     "brand": "Redmi",
@@ -285,72 +286,71 @@
         "maintainer_name": "ZeroTwellve",
         "maintainer_git_url": "https://github.com/rubyzee",
         "telegram_id": "ZeroTwellve"
-          }
-       ]
+      }
+    ]
   },
- {
-     "name": "Note 10 pro",
-     "oem": "Xiaomi",
-     "brand": "Redmi",
-     "codename": "sweet",
-     "pling": "downloads.projectlighthouse.cf/sweet/",
-     "supported_versions": [
-       {
-         "version_code": "sailboat",
-         "version_name": "S",
-         "maintainer_name": "Mohit",
-         "maintainer_git_url": "https://github.com/mohitmarwaha98",
-         "telegram_id": "Only_Performance"
-          }
-       ]
+  {
+    "name": "Note 10 pro",
+    "oem": "Xiaomi",
+    "brand": "Redmi",
+    "codename": "sweet",
+    "pling": "downloads.projectlighthouse.cf/sweet/",
+    "supported_versions": [
+      {
+        "version_code": "sailboat",
+        "version_name": "S",
+        "maintainer_name": "Mohit",
+        "maintainer_git_url": "https://github.com/mohitmarwaha98",
+        "telegram_id": "Only_Performance"
+      }
+    ]
   },
- {
-     "name": "8 Lite",
-     "oem": "Xiaomi",
-     "brand": "Mi",
-     "codename": "platina",
-     "pling": "https://downloads.projectlighthouse.cf/platina/",
-     "supported_versions": [
-       {
-         "version_code": "sailboat",
-         "version_name": "S",
-         "maintainer_name": "Nanairo",
-         "maintainer_git_url": "https://github.com/rrnanairo",
-         "telegram_id": "rrnanairo"
-       }
-     ]
-   },
- {
-     "name": "Atoll family",
-     "oem": "Xiaomi",
-     "brand": "Mi",
-     "codename": "miatoll",
-     "pling": "https://downloads.projectlighthouse.cf/miatoll/",
-     "supported_versions": [
-       {
-         "version_code": "sailboat",
-         "version_name": "S",
-         "maintainer_name": "Stealth1226",
-         "maintainer_git_url": "https://github.com/stealth1226",
-         "telegram_id": "Stealth1226"
-       }
-     ]
+  {
+    "name": "8 Lite",
+    "oem": "Xiaomi",
+    "brand": "Mi",
+    "codename": "platina",
+    "pling": "https://downloads.projectlighthouse.cf/platina/",
+    "supported_versions": [
+      {
+        "version_code": "sailboat",
+        "version_name": "S",
+        "maintainer_name": "Nanairo",
+        "maintainer_git_url": "https://github.com/rrnanairo",
+        "telegram_id": "rrnanairo"
+      }
+    ]
   },
- {
-     "name": "11X / POCO F3 / Redmi K40",
-     "oem": "Xiaomi",
-     "brand": "Mi",
-     "codename": "alioth",
-     "pling": "https://downloads.projectlighthouse.cf/alioth/",
-     "supported_versions": [
-       {
-         "version_code": "sailboat",
-         "version_name": "S",
-         "maintainer_name": "Drishal",
-         "maintainer_git_url": "https://github.com/drishal",
-         "telegram_id": "drishal"
-       }
-     ]
-   }
-
+  {
+    "name": "Atoll family",
+    "oem": "Xiaomi",
+    "brand": "Mi",
+    "codename": "miatoll",
+    "pling": "https://downloads.projectlighthouse.cf/miatoll/",
+    "supported_versions": [
+      {
+        "version_code": "sailboat",
+        "version_name": "S",
+        "maintainer_name": "Stealth1226",
+        "maintainer_git_url": "https://github.com/stealth1226",
+        "telegram_id": "Stealth1226"
+      }
+    ]
+  },
+  {
+    "name": "11X / POCO F3 / Redmi K40",
+    "oem": "Xiaomi",
+    "brand": "Mi",
+    "codename": "alioth",
+    "pling": "https://downloads.projectlighthouse.cf/alioth/",
+    "supported_versions": [
+      {
+        "version_code": "sailboat",
+        "version_name": "S",
+        "maintainer_name": "Drishal",
+        "maintainer_git_url": "https://github.com/drishal",
+        "telegram_id": "drishal"
+      }
+    ]
+  }
 ]
