@@ -1,5 +1,21 @@
 [
   {
+    "name": "11 Lite 5G NE",
+    "oem": "Xiaomi",
+    "brand": "Xiaomi",
+    "codename": "lisa",
+    "pling": "https://www.pling.com/p//",
+    "supported_versions": [
+      {
+        "version_code": "sailboat",
+        "version_name": "S",
+        "maintainer_name": "CannedShroud",
+        "maintainer_git_url": "https://github.com/CannedSshroud",
+        "telegram_id": "CannedShroud"
+      }
+    ]
+  },
+  {
     "name": "X2",
     "oem": "Realme",
     "brand": "Realme",
