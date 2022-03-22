@@ -354,6 +354,22 @@
     ]
   },
   {
+    "name": "POCO X3 PRO",
+    "oem": "Xiaomi",
+    "brand": "Poco",
+    "codename": "vayu",
+    "pling": "",
+    "supported_versions": [
+      {
+        "version_code": "sailboat",
+        "version_name": "S",
+        "maintainer_name": "clhex",
+        "maintainer_git_url": "https://github.com/clhexftw",
+        "telegram_id": "clhexftw"
+      }
+    ]
+  },
+  {
     "name": "11X / POCO F3 / Redmi K40",
     "oem": "Xiaomi",
     "brand": "Mi",
