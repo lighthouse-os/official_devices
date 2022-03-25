@@ -384,5 +384,21 @@
         "telegram_id": "drishal"
       }
     ]
+  },
+  {
+    "name": "Redmi 10",
+    "oem": "Xiaomi",
+    "brand": "Redmi",
+    "codename": "selene",
+    "pling": "",
+    "supported_versions": [
+      {
+        "version_code": "sailboat",
+        "version_name": "S",
+        "maintainer_name": "Mikazuuu07",
+        "maintainer_git_url": "https://github.com/Mikazuuu07",
+        "telegram_id": "Mikazuuu07"
+      }
+    ]
   }
 ]
