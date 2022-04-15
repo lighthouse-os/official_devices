@@ -358,7 +358,7 @@
     "oem": "Xiaomi",
     "brand": "Poco",
     "codename": "vayu",
-    "pling": "",
+    "pling": "https://downloads.projectlighthouse.cf/vayu/",
     "supported_versions": [
       {
         "version_code": "sailboat",
