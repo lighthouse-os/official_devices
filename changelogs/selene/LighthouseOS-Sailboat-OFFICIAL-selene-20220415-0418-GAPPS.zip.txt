@@ -1,0 +1,18 @@
++-----------------------+
++ Device side changelog +
++-----------------------+
+
+• Upstream Kernel to 4.14.275
+• Drop HintManager for HWUI
+• Drop Unused ImsInit
+• Prebuilt GrapheneOS Camera
+• Silence some spammy logtags
+• Introduce CarrierConfig Overlay
+• Disable syncookies
+• Silence alrmtimer logspam
+• Minimize wakeup time
+• Disable console suspend by default
+• Incerase touch boost period
+• Enhance power policy interface
+• Add adaptive power policy
+• Bringback R powerhal
