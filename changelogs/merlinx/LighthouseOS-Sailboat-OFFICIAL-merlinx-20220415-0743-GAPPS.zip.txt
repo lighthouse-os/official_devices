@@ -1,0 +1,10 @@
++-----------------------+
++ Device side changelog +
++-----------------------+
+
+• April Security Patch
+• Shipped With Pizza 275 Kernel
+• Safetynet Passed
+• Drop HintManager for HWUI
+• Fall Back to Q Power hal
+• Silence some spammy logtags
