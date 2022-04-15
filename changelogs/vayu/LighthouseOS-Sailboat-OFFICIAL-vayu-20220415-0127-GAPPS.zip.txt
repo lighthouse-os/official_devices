@@ -1,0 +1,9 @@
++-----------------------+
++ Device side changelog +
++-----------------------+
+ 
+- Updated Blobs from V13.0.3.0.SJUMIXM
+- Enabled iorapd tracing with perfetto
+- set readahead_size_kb=128 to vendor, product and system_ext
+- set readahead_size_kb=128 to system and data
+- Introduce haptic feedback level adjustment
