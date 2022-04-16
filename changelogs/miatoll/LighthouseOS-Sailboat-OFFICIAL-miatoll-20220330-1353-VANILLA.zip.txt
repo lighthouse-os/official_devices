@@ -1,0 +1,58 @@
++-----------------------+
++ Source side changelog +
++-----------------------+
+- March security patch, based on Android 12.1
+- Supplies rework and trim
+- Minor tweaks and adjustments
+
++-----------------------+
++ Device side changelog +
++-----------------------+
+
+- XiaomiParts/ => parts/
+- XiaomiParts: Update USB fastcharge strings
+- XiaomiParts: Adapt Ambient Gestures to S Style
+- XiaomiParts: Adapt Clear Speaker to S style
+- XiaomiParts: Adapt Thermal Profiles to S style
+- XiaomiParts: Adapt to S style
+- msm_irqbalance: fix wrong ignored IRQs that causes battery drain issue
+- rootdir: Remove deprecated init commands
+- overlay: Offload WM shell to another thread
+- Disable alpha compositing in WM
+- Add missing lib needed for depth camera sensor
+- sepolicy: Label camera fmq prop
+- build miuicam
+- overlay: Add system app whitelist for applock
+- overlay: Define config_customDozePackage
+- update stock fingerprints to latest
+- proprietary-files: remove unused libpvr.so
+- BoardConfig: fixup power extension paths
+- rebrand services to miatoll
+- uprev perf hal to 2.2
+- Turn on GPU protected composition.
+- rootdir: Override AIDL Power HAL service
+- power: Scan input devices for eligible DT2W node
+- power: Bump max interactive duration to 5s
+- power: Add custom mode extension for handling app launch
+- power: Add custom boost extension for scroll handling
+- Build new AIDL power hal
+- Simplify AVB flag logic
+- Sync EGL symlinks with CAF
+- Update Graphics blobs to LA.UM.9.1.r1-11400.02-SMxxx0.QSSI12.0
+- Revert "Use sdFAT for exFAT support"
+- Set VENDOR_SECURITY_PATCH to platform
+- init: workaround SafetyNet check
+- rootdir: replace some more writepid with task_profiles command
+- optimize for cortex-a76
+- Re-configure CPU variant according to GS101
+- parts: Add headphones warning for clear speaker
+- releasetools: Print a better message while flashing
+- parts: Update clear speaker audio from MIUI 12
+- parts: Fix Clear Speaker IllegalStateException
+- fstab.qcom: Allow all filesystems for USB-OTG
+- Add a shim to silence prebuilt audio HAL
+- Use FUSE passthrough by default
+- Slightly increase the minimum brightness level
+- overlay: Update config_safe_media_volume_index
+- Kill IMS logspam with fire
+- Set media vol steps to 25
