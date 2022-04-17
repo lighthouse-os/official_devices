@@ -2,12 +2,12 @@
 
         "error": false,
         "device": "alioth",
-        "id": "8aad1b97b14159060d1b2085bff3447072a61fbee21b45c807196867076f45bb",
-        "filename": "LighthouseOS-Sailboat-OFFICIAL-alioth-20220108-1300-VANILLA.zip",
-        "url": "https://downloads.projectlighthouse.cf/alioth/LighthouseOS-Sailboat-OFFICIAL-alioth-20220108-1300-VANILLA.zip",
-        "datetime": "1641636101",
-        "filehash": "8461962c5016b5533bf6138ef06397b8",
-        "size": 1156491901,
+        "id": "d895d67f597b64aac2ad2bb44068c15c761599df7f352dd994e252e4ade46df4",
+        "filename": "LighthouseOS-Sailboat-OFFICIAL-alioth-20220415-1622-GAPPS.zip",
+        "url": "https://downloads.projectlighthouse.cf/alioth/LighthouseOS-Sailboat-OFFICIAL-alioth-20220415-1622-GAPPS.zip",
+        "datetime": "1650039765",
+        "filehash": "daaea428dd0b9807dd049365dbb4a053",
+        "size": 1848737456,
         "version": "Sailboat"
 
 }

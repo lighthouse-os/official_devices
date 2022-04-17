@@ -1,0 +1,2 @@
+- Switch to PPUI trees and kernel, thanks to Ivan
+- note: recommended miui 13.0.x firmware
