@@ -1,0 +1,6 @@
++-----------------------+
++ Device side changelog +
++-----------------------+
+ 
+- Fixed Error 1
+- Fixed FaceUnlock
