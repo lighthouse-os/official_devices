@@ -1,0 +1,53 @@
+# Source
+May Patch
+Many Optimisations
+Much More
+
+# Device Side
+Ship Atom-X kernel v5.0 (built with neutron clang)
+Fix Camera AUX list (camera in telegram, snapchat etc)
+Fix GPU PowerLevel selection (let kernel handle it)
+Use Kryo785 and Kryo385 for CPU architecture (use upstreamed arm feature set)
+Disable proximity sensor use on doze 
+Fix mi_display crash
+Update media configs from CodeLinaro
+Enable SmoMo
+Complete transition from lahaina to yupik_v1 configs (socID 475)
+Improved vibrator pattern (also silence logs)
+Fix CPU affinity to foreground
+Add support for doze Auto Brightness
+Disable a lot of logging 
+Uprev blobs to MIUI 13 blobs based on MIUI 13.0.3
+Drop atrace
+Fix NFC logspam
+Fix Mi Display STC service
+Update NFC configs from 
+Adjust wifi and nfc powerlevels
+Fetch Props from Oriole(Pixel 6) and CodeLinaro
+Disable some packages
+Update CAF stack from LA.UM.9.14.r1-19300.01-LAHAINA.QSSI12.0
+Update AVB signing 
+Update fstab
+Drop CodeLinaro Perf Perf-LM IOP Power
+Import power-libperfmgr from pixel (and write custom config for it)
+Port DT2W changes to libperfmgr
+Ship ANX camera beta from channel
+Ship Device Desc
+Set AAPT configs
+Optmize Auto-Refresh switching
+Uprev powerprofile.xml
+Unpin updatable-media from memory 
+Don't pin launcher app in memory 
+Set max cached processes number to 64
+Enable iorapd tracing with perfetto 
+Set readahead for system vendor userdata
+Tune UFS clkgate and ah8 during boot time
+Uprev vulkan perms
+Disable RX wakelock feature 
+Relax WiFi re-association RSSI thresholds 
+Enable QPower and Deep sleep at the same time 
+Drop renderscript
+Switch to multithreader skia renderer
+Import OpenGL v615 from lyb
+Switch to Pixel Thermals completely for thermal throttling (hello gamers!)
+Fix refresh rate switching ( make is consistent )
