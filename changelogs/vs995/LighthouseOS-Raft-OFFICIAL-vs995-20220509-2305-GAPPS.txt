@@ -1,0 +1,15 @@
+
+PROJECT
+LIGHTHOUSE.
+
+Variant: VS995
+Build Type: Gapps
+___________________________________
+
+-Updated Media blobs
+-Ubdated Sound blobs 
+-Updated codecs
+-Zram is now enabled alongside 3gb of swap
+-Added WifiDisplay functionalities
+-Tweaked Vibration
+___________________________________
